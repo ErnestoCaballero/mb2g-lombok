@@ -1,2 +1,4 @@
-package com.ernesto.model;public class User {
+package com.ernesto.model;
+
+public class User {
 }
